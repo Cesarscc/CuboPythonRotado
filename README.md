@@ -1,6 +1,6 @@
 # CuboPythonRotado
 
-Debemos de tener instalado python3.6
+Debemos de tener instalado python3
 
 además:
 
